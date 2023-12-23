@@ -11,6 +11,16 @@ This project is an Object Detection application built using YOLOv5 and Streamlit
 - **Enhanced User Experience**: Smooth interaction for a seamless experience.
 - **Improved Video Processing**: Faster and responsive object detection in uploaded videos.
 
+## Changelog - New Version Features
+
+### Version 2.0.1 (December 2023)
+
+- **Fixed Image Orientation**: Resolved an issue causing image orientation problems on image uploads.
+- **Improved Video Processing**: Optimized video processing for faster and more efficient object detection in uploaded videos.
+- **Enhanced User Interface**: Streamlined user interface for smoother interactions and a more user-friendly experience.
+
+
+
 ## Getting Started
 
 1. Clone the repository:
