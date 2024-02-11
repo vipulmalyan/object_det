@@ -80,7 +80,7 @@ elif option == 'Local System - Video':
 page_bg_img = '''
 <style>
 [data-testid="stAppViewContainer"] {
-    background-image: url("https://wallpapercave.com/wp/wp6690890.jpg");
+    background-image: url("https://raw.githubusercontent.com/vipulmalyan/Cloud-Wallpapers/main/Obj%20Det.jpg");
     background-size: cover;
 }
 </style>
