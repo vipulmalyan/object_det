@@ -2,7 +2,7 @@
 
 This project is an Object Detection application built using YOLOv5 and Streamlit, allowing users to perform object detection on images and videos.
 
-![App Screenshot](https://raw.githubusercontent.com/vipulmalyan/object_det/main/Screenshot.png)
+![App Screenshot](https://raw.githubusercontent.com/vipulmalyan/Cloud-Wallpapers/main/Obj%20Det.jpg)
 
 ## Features
 
