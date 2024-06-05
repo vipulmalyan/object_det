@@ -28,7 +28,7 @@ def fix_orientation(img):
 
     return img
 
-st.title('Seeing Beyond Clarity: Utilizing Blur Vision in Object Detection System')
+st.title('Object Detection System')
 
 option = st.selectbox('Select an option:', 
                       ('Local System - Image', 'Web Address - Image', 'Local System - Video'))
